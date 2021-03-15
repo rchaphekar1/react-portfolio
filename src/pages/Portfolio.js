@@ -1,9 +1,11 @@
 import React from "react";
-import Navbar from '../components/Navbar';
+import '../style.css';
 
 function Portfolio() {
     return (
-
+        <div>
+            <p>Portfolio Page</p>
+        </div>
     )
 };
 

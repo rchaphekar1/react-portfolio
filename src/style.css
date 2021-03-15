@@ -1,0 +1,46 @@
+body {
+    background-image: url('https://www.designbolts.com/wp-content/uploads/2013/02/Pineapple-cut-Grey-Seamless-Pattern-For-Website-Background.jpg');
+}
+
+h1 {
+    padding: 10px;
+}
+
+.container {
+    background-color: white;
+    position: absolute;
+    left: 50px;
+    margin-top: 50px;
+    height: fit-content;
+    width: 60%;
+}
+
+.contact {
+    padding-left: 0px;
+}
+
+.container-image {
+    background-color: white;
+    position: absolute;
+    left: 50px;
+    margin-top: 50px;
+    height: fit-content;
+    width: 60%;
+    padding: 10px;
+}
+
+.pages {
+    margin-left: 20px;
+}
+
+.pages li {
+    list-style-type: circle;
+}
+
+.footer {
+position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
