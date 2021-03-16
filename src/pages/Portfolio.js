@@ -1,10 +1,11 @@
 import React from "react";
+import Project from '../components/Project';
 import '../style.css';
 
 function Portfolio() {
     return (
         <div>
-            <p>Portfolio Page</p>
+            <Project />
         </div>
     )
 };
