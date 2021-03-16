@@ -3,7 +3,7 @@ import '../style.css';
 
 function Footer() {
     return (
-        <h3 class="footer">This is a footer.</h3>
+        <p class="footer">This site was made by Rahul Chaphekar.</p>
     )
 };
 

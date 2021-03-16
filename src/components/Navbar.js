@@ -1,4 +1,5 @@
 import React from "react";
+import { Navlink } from 'react-router-dom';
 import '../style.css';
 
 function Navbar() {
@@ -14,7 +15,7 @@ function Navbar() {
                     <a class="nav-link" href="/contact" rel="noreferrer">Contact</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="/portfolio" rel="noreferrer">Portfolio<span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="/portfolio" rel="noreferrer">Portfolio</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/" rel="noreferrer">About</a>

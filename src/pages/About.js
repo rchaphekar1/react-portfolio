@@ -1,4 +1,5 @@
 import React from "react";
+import Picture from '../assets/Picture.png';
 import '../style.css';
 
 function About() {
@@ -12,7 +13,7 @@ function About() {
                 </div>
                 <div class="row no-gutters">
                     <div class="col-md-3">
-                        <img class="img img-thumbnail" src="../Picture.png" alt="Rahul Chaphekar" height="250" width="250" />
+                        <img class="img img-thumbnail" src={Picture} alt="Rahul Chaphekar" height="250" width="250" />
                     </div>
                     <div class="col-md-9">
                         <p>My name is Rahul Chaphekar and I am a full-stack developer. I originally received a B.S. in Chemical Engineering from The University of Texas at Austin. Recently, I graduated from The Web Development Boot Camp through UT Austin. I am proficient in technologies such as HTML, CSS, jQuery, Javascript, Node.js, Express, SQL, MongoDB, and React.js</p>
