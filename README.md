@@ -2,7 +2,7 @@
   ## Description
   Updated version of a portfolio page, using React.js.
 
-  ![Screenshot](src\assets\Portfolio.png?raw=true "React Portfolio Screenshot")
+  ![Screenshot](./src/assets/Portfolio.png?raw=true "React Portfolio Screenshot")
 
   ## Table of Contents
   * [Installation](#Installation)
