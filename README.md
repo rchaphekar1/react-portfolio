@@ -4,6 +4,8 @@
 
   ![Screenshot](./src/assets/Portfolio.png?raw=true "React Portfolio Screenshot")
 
+  https://rchaphekar1.github.io/react-portfolio/
+
   ## Table of Contents
   * [Installation](#Installation)
   * [Contributing](#Contributing)
